@@ -1,0 +1,8 @@
+{
+    "resource_started": "Resource started.",
+    "resource_stopped": "Resource stopped.",
+    "err_invalid_data": "registerKeybind: data must be a table",
+    "err_missing_label": "registerKeybind: missing field 'label'",
+    "err_missing_key": "registerKeybind: missing field 'key'",
+    "err_missing_group": "registerKeybind: missing field 'group'"
+}
