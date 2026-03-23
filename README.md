@@ -4,6 +4,9 @@ In-game Keybind Manager panel for FiveM servers.
 
 **Stack:** React 18 · TypeScript · Vite · Tailwind CSS · Framer Motion
 
+<img width="996" height="659" alt="image" src="https://github.com/user-attachments/assets/acbf10a2-84f0-421c-84af-f1bd15503cc0" />
+
+
 ---
 
 ## Installation
